@@ -2,6 +2,16 @@
 #hellow     {
             text-align: center;
             }
+
+.background1    {
+                color: grey;
+                }
+.background2    {
+                color: #efee0e;
+                }
+.background3    {
+                color: lightyellow;
+}
 #main-body  {
             background-color: #61ef16;
             text-align: center;
@@ -10,7 +20,7 @@
 #header     {
             background-color: #df05ef;
             border-style: solid;
-            margin: 10px 2px 10px 2px;
+            margin: 10px 5px 10px 2px;
             }
 #navigation {
             background-color: #1aefc3;
@@ -21,7 +31,9 @@
 #section1   {
             background-color: #efe10a;
             border-style: solid;
-            margin: 2px 550px 5px 2px;
+            margin: 2px 2px 5px 2px;
+            float: left;
+
             }
 #header1    {
             background-color: #6def0e;
@@ -32,8 +44,8 @@
 #navigation1    {
                 background-color: #1aefc3;
                 border-style: solid;
-                margin: 10px 10px 5px 10px;
-                padding: 100px 5px 100px 5px;
+                margin: 10px 10px 10px 10px;
+                padding: 300px 80px 300px 80px;
                 }
 #footer1    {
             background-color: #6def0e;
@@ -44,7 +56,8 @@
 #section2   {
             background-color: #efe10a;
             border-style: solid;
-            margin: 2px 10px 5px 230px;
+            margin: 10px 10px 10px 10px;
+            float: right;
 
 
 }
